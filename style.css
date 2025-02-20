@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f2ff;
+}
+.header-section {
+    padding: 90px 0;
+}
+.primary-btn {
+    background-color: #f66ab4;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 40px;
+    color: white;
+    font-weight: bold;
+}
+.cta-btn {
+    border: 2px solid gray;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: black;
+    font-weight: bold;
+}
+.logo-bar img {
+    max-height: 70px;
+    margin: 0 15px;
+}
